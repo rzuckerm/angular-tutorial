@@ -14,9 +14,10 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "^14.0.0",
+    "@angular/cli": "^14.0.2",
     "@angular/common": "^14.0.0",
     "@angular/compiler": "^14.0.0",
-    "@angular/core": "^14.0.0",
+    "@angular/core": "^14.0.2",
     "@angular/forms": "^14.0.0",
     "@angular/platform-browser": "^14.0.0",
     "@angular/platform-browser-dynamic": "^14.0.0",
@@ -24,11 +25,11 @@
     "angular-in-memory-web-api": "~0.13.0",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
+    "worker-threads": "^1.0.0",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^14.0.0",
-    "@angular/cli": "~14.0.0",
     "@angular/compiler-cli": "^14.0.0",
     "@types/jasmine": "~4.0.0",
     "@types/node": "^16.11.35",
